@@ -8,9 +8,9 @@ The platform aims to provide a secure, scalable, and user-friendly solution for 
 
 ## Core Team Members
 
-* **[Team Member 1]** – Title Finalization & Literature Survey
-* **[Team Member 2]** – Problem Identification & Generalized Objectives
-* **[Team Member 3]** – Innovation, System Architecture & Technology Stack
+* **[Vankam Sindhusri]** – Title Finalization & Literature Survey
+* **[Uribindhi Dharshini]** – Problem Identification & Generalized Objectives
+* **[Nandini Gupta]** – Innovation, System Architecture & Technology Stack
 
 ## System Architecture Highlights
 
