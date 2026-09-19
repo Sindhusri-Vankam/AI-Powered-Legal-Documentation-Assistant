@@ -1,0 +1,12 @@
+﻿fastapi
+uvicorn
+pypdf
+pdfminer.six
+pytesseract
+spacy
+sentence-transformers
+langchain
+python-dotenv
+python-multipart
+python-docx
+pillow
